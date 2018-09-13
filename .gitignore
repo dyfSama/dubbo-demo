@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+dubbo-demo.iml
+server-api/src/main/resources/
+server-api/src/test/
+server-api/target/
+server-consumer/.idea/
+server-consumer/src/test/
+server-consumer/target/
+server-provider/src/test/
+server-provider/target/
+target/
